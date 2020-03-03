@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string android:name="app_name">Manager</string>
+     <string android:name="title_home">Home</string>-->
+    <string android:name="title_dashboard">Dashboard</string>
+    <string android:name="title_notifications">Profile</string>
+</resources>
